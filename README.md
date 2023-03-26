@@ -2,6 +2,6 @@
 Aula de git hub alura
 
 ```
-Javascript
+Javascript react
 
 ```
